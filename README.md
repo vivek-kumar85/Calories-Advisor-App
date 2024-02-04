@@ -22,11 +22,16 @@ This application allows users to upload an image of their meal and receive a com
 
    ```bash
    git clone https://github.com/your-username/SwadFit-Advisor.git
+   ```
+   ```bash
    cd SwadFit-Advisor
+   ```
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 3. **Set Up Environment Variables:**
 
@@ -34,15 +39,17 @@ This application allows users to upload an image of their meal and receive a com
 
 4. **Add your Google API key:**
 
-```GOOGLE_API_KEY=your_google_api_key```
+``` GOOGLE_API_KEY=your_google_api_key ```
 
 5. **Run the Application:**
 
-```streamlit run app.py```
+```bash
+streamlit run app.py
+```
 
 6. **Access the App:**
 
-Open your web browser and navigate to ``` http://localhost:8501```
+Open your web browser and navigate to ``` http://localhost:8501 ```
 
 7. **Usage**
 - Upload an image of your meal.
