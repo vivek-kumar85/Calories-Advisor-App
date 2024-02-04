@@ -21,7 +21,7 @@ This application allows users to upload an image of their meal and receive a com
 1. **Clone the Repository:**
 
    ```bash
-   https://github.com/vivek-kumar85/Calories-Advisor-App.git
+   git clone https://github.com/vivek-kumar85/Calories-Advisor-App.git
    ```
    ```bash
    cd Calories-Advisor-App
