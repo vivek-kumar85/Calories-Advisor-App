@@ -21,10 +21,10 @@ This application allows users to upload an image of their meal and receive a com
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/SwadFit-Advisor.git
+   https://github.com/vivek-kumar85/Calories-Advisor-App.git
    ```
    ```bash
-   cd SwadFit-Advisor
+   cd Calories-Advisor-App
    ```
 
 3. **Install Dependencies:**
