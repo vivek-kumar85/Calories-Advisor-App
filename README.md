@@ -4,6 +4,12 @@ SwadFit Advisor is a Streamlit web application that allows users to upload an im
 
 ![SwadFit Advisor](https://github.com/vivek-kumar85/SwadFit-Advisor-App/assets/91729976/a797357b-349f-4e97-b0aa-50d28ce5298a)
 
+
+## Demo Link
+
+https://swadfit-advisor.onrender.com
+
+
 ## Overview
 
 This application allows users to upload an image of their meal and receive a comprehensive nutrition breakdown. The Google GenerativeAI API powers the backend, generating insights on individual food items, total calories, and the overall healthiness of the meal.
